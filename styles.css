@@ -55,10 +55,10 @@ footer {
     justify-content: center; /* Align Q&A and FAQ at the center horizontally */
 }
 .ask-button {
-    margin-left: 95%; 
-    margin-bottom: 20px; 
-    width: 50px; 
-    height: 50px;
+    margin-left: 90%; 
+    margin-bottom: 70px; 
+    width: 60px; 
+    height: 60px;
     border-radius: 50%; 
     background-color: #0047ab; 
     color: #fff; 
