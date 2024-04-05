@@ -28,23 +28,24 @@ header {
 .logo {
     display: flex;
     align-items: center;
-    margin-right: 500px;
+    margin-left: 0.5%;
+    font-size: large;
 }
 .logo img {
     width: 30px;
     height: auto;
-    margin-right: 10px;
+    margin-right: 0px;
 }
 .logo span {
-    margin-left: 5px; /* Add some spacing between icon and text */
+    margin-left: 8px; /* Add some spacing between icon and text */
 }
 h1 {
     margin: 0px;
-    margin-right: 50px;
+    margin-left: 25px;
 }
 
 footer {
-    background-color:    #dbe0e0;  
+    background-color:    #f6fdfd;  
     color: #0a0707; /* White text color */
     padding: 3px;
     text-align: center;
@@ -65,4 +66,7 @@ footer {
     border: none;
     cursor: pointer;
     font-size: 20px;
+}
+.menu-icon {
+    font-size: 28px; /* Increase the font size for the menu icon */
 }
